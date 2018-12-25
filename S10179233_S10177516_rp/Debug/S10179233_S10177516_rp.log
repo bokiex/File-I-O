@@ -1,2 +1,3 @@
 ﻿  S10179233_S10177516_rp.cpp
-  S10179233_S10177516_rp.vcxproj -> D:\Program Files\File-I-O\Debug\S10179233_S10177516_rp.exe
+d:\file-i-o\s10179233_s10177516_rp\s10179233_s10177516_rp.cpp(153): warning C4018: '<': signed/unsigned mismatch
+  S10179233_S10177516_rp.vcxproj -> D:\File-I-O\Debug\S10179233_S10177516_rp.exe
